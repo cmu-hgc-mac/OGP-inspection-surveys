@@ -5,3 +5,4 @@
 * [General CMU OGP notes](https://docs.google.com/presentation/d/1ZGCCRqg1yekPDWmsitt4NvS9J8Dl9fWaZ0NRfXHZBZk/edit?slide=id.p#slide=id.p)
 * Tutorials are under Training and require a test piece provided from QVI.
 * Additionally, [reticles such as this one](https://www.amazon.com/Microscope-Micrometer-Calibration-TCM-H-Resolution/dp/B00KKSFK2A/) can be useful for learning how to use the OGP and to check the calibration.
+* Spreadsheets are input files for find offsets. These contain coordinates for baseplate tray pins compared to the Top Left and Top Right fiducials.
